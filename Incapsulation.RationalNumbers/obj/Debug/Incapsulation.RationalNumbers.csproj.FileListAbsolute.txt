@@ -1,0 +1,11 @@
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.AssemblyReference.cache
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.CoreCompileInputs.cache
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe.config
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.pdb
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\bin\Debug\nunit.framework.dll
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\bin\Debug\nunitlite.dll
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.CopyComplete
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.exe
+D:\Mac_Monteray\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.pdb

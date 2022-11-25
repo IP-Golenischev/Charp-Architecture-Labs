@@ -1,0 +1,12 @@
+D:\Mac_Monteray\Incapsulation.Failures.csproj\bin\Debug\ReportMaker.cs
+D:\Mac_Monteray\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe.config
+D:\Mac_Monteray\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe
+D:\Mac_Monteray\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.pdb
+D:\Mac_Monteray\Incapsulation.Failures.csproj\bin\Debug\nunit.framework.dll
+D:\Mac_Monteray\Incapsulation.Failures.csproj\bin\Debug\nunitlite.dll
+D:\Mac_Monteray\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.AssemblyReference.cache
+D:\Mac_Monteray\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.SuggestedBindingRedirects.cache
+D:\Mac_Monteray\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+D:\Mac_Monteray\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+D:\Mac_Monteray\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.exe
+D:\Mac_Monteray\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.pdb

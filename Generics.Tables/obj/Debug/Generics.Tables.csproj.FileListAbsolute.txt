@@ -1,0 +1,11 @@
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\bin\Debug\Generics.Table.exe.config
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\bin\Debug\Generics.Table.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\bin\Debug\Generics.Table.pdb
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\bin\Debug\nunit.framework.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\bin\Debug\nunitlite.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\obj\Debug\Generics.Tables.csproj.AssemblyReference.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\obj\Debug\Generics.Tables.csproj.SuggestedBindingRedirects.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\obj\Debug\Generics.Tables.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\obj\Debug\Generics.Tables.csproj.CopyComplete
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\obj\Debug\Generics.Table.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Tables\obj\Debug\Generics.Table.pdb

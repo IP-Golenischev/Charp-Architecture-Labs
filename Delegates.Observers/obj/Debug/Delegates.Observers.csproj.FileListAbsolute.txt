@@ -1,0 +1,11 @@
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\bin\Debug\Delegates.Observers.exe.config
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\bin\Debug\Delegates.Observers.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\bin\Debug\Delegates.Observers.pdb
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\bin\Debug\nunit.framework.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\bin\Debug\nunitlite.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\obj\Debug\Delegates.Observers.csproj.AssemblyReference.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\obj\Debug\Delegates.Observers.csproj.SuggestedBindingRedirects.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\obj\Debug\Delegates.Observers.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\obj\Debug\Delegates.Observers.csproj.CopyComplete
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\obj\Debug\Delegates.Observers.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Delegates.Observers\obj\Debug\Delegates.Observers.pdb

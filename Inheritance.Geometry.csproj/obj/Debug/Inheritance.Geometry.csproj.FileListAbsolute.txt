@@ -1,0 +1,11 @@
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Geometry.exe.config
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Geometry.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Geometry.pdb
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\bin\Debug\nunit.framework.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\bin\Debug\nunitlite.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csproj.AssemblyReference.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csproj.SuggestedBindingRedirects.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csproj.CopyComplete
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.pdb

@@ -1,0 +1,11 @@
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\bin\Debug\Generics.Robots.exe.config
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\bin\Debug\Generics.Robots.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\bin\Debug\Generics.Robots.pdb
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\bin\Debug\nunit.framework.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\bin\Debug\nunitlite.dll
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\obj\Debug\Generics.Robots.csproj.AssemblyReference.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\obj\Debug\Generics.Robots.csproj.SuggestedBindingRedirects.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\obj\Debug\Generics.Robots.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\obj\Debug\Generics.Robots.csproj.CopyComplete
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\obj\Debug\Generics.Robots.exe
+D:\One Drive\OneDrive - IP Oleg Golenischev\Данные\downloads\Architecture_CSharp\Generics.Robots\obj\Debug\Generics.Robots.pdb
